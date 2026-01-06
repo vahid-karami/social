@@ -1,5 +1,4 @@
-# My Awesome Project
-social 
+# Social Project
 ## Description
 social project for users create posts, likes and etc
 
